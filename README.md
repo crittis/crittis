@@ -13,17 +13,5 @@
 ![](https://streak-stats.demolab.com/?user=crittis&theme=cobalt&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=crittis&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-# 📈 3D Contribution Graph:
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
-
-## 🐍 My Contributions Snake:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crittis/crittis/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crittis/crittis/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/crittis/crittis/output/github-contribution-grid-snake.svg" />
-</picture>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=crittis&theme=bear&no-frame=false&no-bg=true&margin-w=4)
 
 ---

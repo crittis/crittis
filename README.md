@@ -68,10 +68,6 @@ $\color{green}{\texttt{>}}$ I am a **coffee lover**
 
 ## 📊 GitHub Stats
 
-<p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MDhreThpMWxodHBxdmo5eHEzeDJzeTIxYzBwb25ocDhhZGI4ZnVnbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRwnEdWjXAjbhpm/giphy.gif" width="120" alt="stats gif" />
-</p>
-
 <p align="center">
   <img src="./profile-summary-card-output/gruvbox/3-stats.svg" width="49%" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=crittis&background=282828&hide_border=true&ring=FF9800&fire=FF5722&currStreakNum=FFC107&currStreakLabel=FF9800&sideNums=FF7043&sideLabels=FFB74D&dates=FFD54F&refresh=1" width="49%" alt="GitHub Streak" />

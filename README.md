@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzl4NzU0NHU0bHRsZGVtcW5jYjV5a2hvMjd3MnEwZDhreG5ubzgwZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/yWks1AKUIldwKNHOxT/giphy.gif" width="100%" alt="banner" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzl4NzU0NHU0bHRsZGVtcW5jYjV5a2hvMjd3MnEwZDhreG5ubzgwZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/yWks1AKUIldwKNHOxT/giphy.gif" width="600" alt="banner" />
 </p>
 
-<h1 align="center">
-  Hi 👋, I'm Kritika
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NDdzYzByYXhsdnBtcHByeGdmN3Z4enhjeTVnanVzNjAzdG5qemF4MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KbfHd8I4Nu0SMs40wh/giphy.gif" width="60" alt="cute gif" />
-</h1>
+<h1 align="center">Hi 👋, I'm Kritika</h1>
 
 <p align="center">
-  <i>I'll break things and fix and repeat!! On my way to exploring things... 🚀</i>
+  <i>I'll break things and fix and repeat!!</i><br>
+  <i>On my way to exploring things... 🚀</i>
 </p>
 
 ---
@@ -25,18 +23,14 @@ $\color{green}{\texttt{>}}$ I am a **coffee lover**
 
 ## 🔭 Currently working on...
 
-<table>
-  <tr>
-    <td>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXhpbnhmM3R0ZTY1ZjJhbnphMXp3cDlwOGxlbDg2aThnbWV0Yzk3OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12BnpAj99ezEEY5wEg/giphy.gif" width="140" alt="working gif" />
 
-- **Tanrenroku Project Series**
-  
-</td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXhpbnhmM3R0ZTY1ZjJhbnphMXp3cDlwOGxlbDg2aThnbWV0Yzk3OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12BnpAj99ezEEY5wEg/giphy.gif" width="200" alt="working gif" />
-    </td>
-  </tr>
-</table>
+- 🛒 Building an **E-Commerce website**
+- 🗜️ **Query-Aware Adaptive Compression and Retrieval System** for large-scale system logs (C++)
+- 📚 **Tanrenroku Project Series**
+- ⚛️ Learning **React** & **Express.js**
+
+<br clear="right"/>
 
 ---
 
@@ -76,29 +70,23 @@ $\color{green}{\texttt{>}}$ I am a **coffee lover**
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MDhreThpMWxodHBxdmo5eHEzeDJzeTIxYzBwb25ocDhhZGI4ZnVnbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRwnEdWjXAjbhpm/giphy.gif" width="180" alt="stats gif" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=crittis&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF9800&icon_color=FF5722&text_color=FFD180&ring_color=FFC107&cache_seconds=3600" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MDhreThpMWxodHBxdmo5eHEzeDJzeTIxYzBwb25ocDhhZGI4ZnVnbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRwnEdWjXAjbhpm/giphy.gif" width="180" alt="stats gif" />
+
+<p align="center">
+  <img src="./profile-summary-card-output/gruvbox/3-stats.svg" width="48%" alt="GitHub Stats" />
+  <img src="./profile-summary-card-output/gruvbox/2-most-commit-language.svg" width="48%" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=crittis&background=0D1117&hide_border=true&ring=FF9800&fire=FF5722&currStreakNum=FFC107&currStreakLabel=FF9800&sideNums=FF7043&sideLabels=FFB74D&dates=FFD54F&refresh=1" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crittis&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF9800&text_color=FFD180&langs_count=6&cache_seconds=3600" alt="Top Languages" />
-</p>
+<br clear="right"/>
 
 ### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crittis&bg_color=0d1117&color=FF9800&line=FF5722&point=FFEB3B&area=true&area_color=FF7043&title_color=FFC107&hide_border=true&radius=10" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/crittis/crittis/output/github-snake.svg" alt="Contribution snake" />
 </p>
 
 ---

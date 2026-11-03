@@ -25,10 +25,8 @@ $\color{green}{\texttt{>}}$ I am a **coffee lover**
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXhpbnhmM3R0ZTY1ZjJhbnphMXp3cDlwOGxlbDg2aThnbWV0Yzk3OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12BnpAj99ezEEY5wEg/giphy.gif" width="140" alt="working gif" />
 
-- 🛒 Building an **E-Commerce website**
-- 🗜️ **Query-Aware Adaptive Compression and Retrieval System** for large-scale system logs (C++)
-- 📚 **Tanrenroku Project Series**
-- ⚛️ Learning **React** & **Express.js**
+- **Tanrenroku Project Series**
+
 
 <br clear="right"/>
 

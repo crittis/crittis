@@ -13,9 +13,8 @@
 
 ## 💫 About Me
 
-$\color{green}{\texttt{>}}$ I am currently working on an **E-Commerce website**  
+$\color{green}{\texttt{>}}$ I am currently working on an **AI ML Projects**  
 $\color{green}{\texttt{>}}$ I'm looking to collaborate on **full stack projects**  
-$\color{green}{\texttt{>}}$ I'm currently learning **React** and **Express.js**  
 $\color{green}{\texttt{>}}$ To reach me: **kritika7v@gmail.com**  
 $\color{green}{\texttt{>}}$ I am a **coffee lover**
 
